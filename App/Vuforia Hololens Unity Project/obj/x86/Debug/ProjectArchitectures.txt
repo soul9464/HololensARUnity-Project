@@ -1,0 +1,1 @@
+E:\Unity Projects\Vuforia Hololens Unity Project\App\Vuforia Hololens Unity Project\Vuforia Hololens Unity Project.csproj;x86

@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/SampleResources/Scenes/2-HoloLens.unity
+  isLoaded: 1
+  isActive: 1
